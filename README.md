@@ -19,4 +19,4 @@ Download the _Harvested Area and Yield for 175 Crops_ and _Potential Natural Veg
 
 ### Climatic Research Unit Time-Series v4.01
 
-Download the full temperature (`tmp`) and precipitation (`pre`) data (1901–2016) from the (Centre for Environmental Data Analysis)[http://catalogue.ceda.ac.uk/uuid/58a8802721c94c66ae45c3baa4d814d0]. You'll need to register for an account. Place the `.nc` files directly in `data`.
+Download the full temperature (`tmp`) and precipitation (`pre`) data (1901–2016) from the [Centre for Environmental Data Analysis](http://catalogue.ceda.ac.uk/uuid/58a8802721c94c66ae45c3baa4d814d0). You'll need to register for an account. Place the `.nc` files directly in `data`.
