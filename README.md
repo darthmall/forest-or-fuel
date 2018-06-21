@@ -2,6 +2,13 @@
 
 Reproduce the analysis from [_Assessing the comparative productivity advantage of bioenergy feedstocks at different latitudes_](https://doi.org/10.1088/1748-9326/7/4/045906).
 
+## Set up
+
+You'll need to install [Pipenv](https://docs.pipenv.org/) first. Then:
+
+    $ pipenv install
+    $ pipenv run jupyter lab
+
 ## Get the Data
 
 You'll need the NetCDF files for the following datasets to run these notebooks.

@@ -1,4 +1,7 @@
 .DS_Store
 .ipynb_checkpoints
 reference
+data/**/*.json
+data/**/*.png
+*.pdf
 *.nc
